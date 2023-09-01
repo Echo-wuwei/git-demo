@@ -12,8 +12,5 @@ hello wuwei！ hello git!
 hello wuwei！ hello git!
 hello wuwei！ hello git!
 hello wuwei！ hello git!
-hello wuwei！ hello git!
-hello wuwei！ hello git!
-hello wuwei！ hello git!
 hello wuwei！ hello git! master test
-hello wuwei！ hello git!
+hello wuwei！ hello git! hot-fix test
